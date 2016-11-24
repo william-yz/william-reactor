@@ -7,6 +7,7 @@ import VueResource from 'vue-resource'
 
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-default/index.css'
+import './assets/main.css'
 
 import router from './routers'
 

@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <login v-show="!isLogin"></login>
-    <Layout v-show="isLogin"></Layout>
+    <login v-show="isLogin"></login>
+    <Layout v-show="!isLogin"></Layout>
   </div>
 </template>
 

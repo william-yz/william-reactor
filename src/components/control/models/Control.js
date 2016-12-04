@@ -1,4 +1,4 @@
-export default Control {
+export default class Control {
 
   constructor ({id, size, position}) {
     this.id = id
